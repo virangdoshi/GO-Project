@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;chat&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../../bson" />
+      <root url="file://$PROJECT_DIR$/../../labix.org" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../final_project/.idea" />
+      <root url="file://$PROJECT_DIR$/../stretchr/signature/.git" />
+      <root url="file://$PROJECT_DIR$/../GolangTraining/.git" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in/unrolled/render.v1/.git" />
+      <root url="file://$PROJECT_DIR$/../stretchr/tracer/.git" />
+      <root url="file://$PROJECT_DIR$/../ArdanStudios/gotraining/.git" />
+      <root url="file://$PROJECT_DIR$/../SummerBootCamp/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../clbanning/x2j/.git" />
+      <root url="file://$PROJECT_DIR$/../name/.idea" />
+      <root url="file://$PROJECT_DIR$/../stretchr/gomniauth/.git" />
+      <root url="file://$PROJECT_DIR$/../user/stringutil/.idea" />
+      <root url="file://$PROJECT_DIR$/../stretchr/codecs/.git" />
+      <root url="file://$PROJECT_DIR$/../hello/.idea" />
+      <root url="file://$PROJECT_DIR$/../name2/.idea" />
+      <root url="file://$PROJECT_DIR$/../gorilla/websocket/.git" />
+      <root url="file://$PROJECT_DIR$/../exercise/.idea" />
+      <root url="file://$PROJECT_DIR$/../stretchr/objx/.git" />
+      <root url="file://$PROJECT_DIR$/../untitled/.idea" />
+      <root url="file://$PROJECT_DIR$/../ugorji/go/.git" />
+      <root url="file://$PROJECT_DIR$/../GolangTraining/.idea" />
+      <root url="file://$PROJECT_DIR$/../Go_Project/.idea" />
+      <root url="file://$PROJECT_DIR$/../stretchr/stew/.git" />
+      <root url="file://$PROJECT_DIR$/../theplant/blackfriday/.git" />
+      <root url="file://$PROJECT_DIR$/../julienschmidt/httprouter/.git" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in/mgo.v2/.git" />
+    </excluded>
+  </library>
+</component>
